@@ -63,9 +63,7 @@ To start learning and coding along with the course:
 
 2. Navigate to the project directory:
 
-   ```bash
   cd AlgoMap.io
-```
 
 3. Explore the code for various data structures, algorithms, and problem sets.
 
