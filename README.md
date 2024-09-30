@@ -58,19 +58,19 @@ To start learning and coding along with the course:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/AlgoMap.io.git
-     ```
+```
 
 2. Navigate to the project directory:
   ```bash
   cd AlgoMap.io
-     ```
+```
 
 3. Explore the code for various data structures, algorithms, and problem sets.
 
 4. Run any Python script locally to see how it works:
   ```bash
   python3 DataStructures/arrays.py
-  ```
+```
 
 # Greg Hogg's YouTube Course - Quick Links
 
