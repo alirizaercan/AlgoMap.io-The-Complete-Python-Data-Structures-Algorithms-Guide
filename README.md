@@ -60,8 +60,10 @@ To start learning and coding along with the course:
    git clone https://github.com/your-username/AlgoMap.io.git
 ```
 
+
 2. Navigate to the project directory:
-  ```bash
+
+   ```bash
   cd AlgoMap.io
 ```
 
