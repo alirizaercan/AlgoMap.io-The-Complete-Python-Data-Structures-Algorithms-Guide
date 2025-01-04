@@ -9,8 +9,8 @@ class Solution:
 
         R, W, B = counts
         nums[:R]    = [0] * R
-        nums[R:R+W] = [0] * W
-        nums[R+W:]  = [0] * B
+        nums[R:R+W] = [1] * W 
+        nums[R+W:]  = [2] * B  
 
     # Time Complexity : O(n)
     # Space Complexity : O(n)
