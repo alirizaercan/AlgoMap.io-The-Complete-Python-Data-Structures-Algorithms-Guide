@@ -9,4 +9,7 @@ class Solution:
         if closest < 0 and abs(closest) in nums:
             return abs(closest)
         else:
-            return closest 
+            return closest
+    
+    # Time Complexity : O(n)
+    # Space Complexity : O(1)
