@@ -9,3 +9,6 @@ class Solution:
         merged += word1[n2:] if n1 > n2 else word2[n1:]
 
         return merged
+
+    # Time Complexity : O(n+m)
+    # Space Complexity : O(n+m)
