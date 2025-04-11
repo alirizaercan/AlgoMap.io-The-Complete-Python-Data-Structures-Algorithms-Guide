@@ -17,3 +17,6 @@ class Solution:
         for char in s:
             number += translations[char]
         return number
+    
+    # Time Complexity : O(n)
+    # Space Complexity : O(1)
