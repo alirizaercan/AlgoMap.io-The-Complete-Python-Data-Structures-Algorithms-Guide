@@ -11,3 +11,6 @@ class Solution:
             if not found:
                 return False
         return True
+
+    # Time Complexity : O(T)
+    # Space Complexity : O(1)
