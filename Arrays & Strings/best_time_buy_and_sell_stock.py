@@ -10,3 +10,6 @@ class Solution:
             current_profit = prices[i] - min_price
             profit.append(current_profit)
         return max(max(profit), 0)
+    
+    # Time Complexity : O(n)
+    # Space Complexity : O(n)
