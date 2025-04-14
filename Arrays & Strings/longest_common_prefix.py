@@ -13,3 +13,6 @@ class Solution:
             common.append(first_str[i])
         
         return "".join(common)
+    
+    # Time Complexity : O(n*m)
+    # Space Complexity : O(m)
