@@ -11,3 +11,6 @@ class Solution:
             res[i] *= postfix
             postfix *= nums[i]
         return res
+    
+    # Time Complexity : O(n)
+    # Space Complexity : O(1)
