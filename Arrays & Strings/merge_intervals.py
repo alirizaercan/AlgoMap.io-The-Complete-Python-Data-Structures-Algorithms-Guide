@@ -8,3 +8,6 @@ class Solution:
             else:
                 merged[-1][1] = max(merged[-1][1], interval[1])
         return merged
+    
+    # Time Complexity : O(nlogn)
+    # Space Complexity : O(n)
