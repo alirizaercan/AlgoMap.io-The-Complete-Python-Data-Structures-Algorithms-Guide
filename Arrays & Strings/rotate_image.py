@@ -10,4 +10,6 @@ class Solution:
         for i in range(len(matrix)):
             matrix[i].reverse()
 
+    # Time Complexity : O(n^2)
+    # Space Complexity : O(1)
         
