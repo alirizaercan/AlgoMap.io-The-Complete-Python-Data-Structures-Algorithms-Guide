@@ -20,3 +20,6 @@ class Solution:
                 l = m+1
                 
         return False
+
+    # Time Complexity : O(log(m*n))
+    # Space Complexity : O(1)
